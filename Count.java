@@ -3,6 +3,7 @@ public class Count {
         count();
     }
 
+
     public static void count(){
         System.out.println("22");
     }
